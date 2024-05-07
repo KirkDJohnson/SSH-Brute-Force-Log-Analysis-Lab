@@ -77,8 +77,6 @@ This lab/CTF was good practice using basic Linux command-line tools to investiga
 
 
 <br />
-<h2>Thoughts</h2>
-Text
 
 <!--
  ```diff
